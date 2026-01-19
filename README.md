@@ -9,7 +9,8 @@
 
 SQL Copilot is a production-ready application that converts natural language questions into SQL queries using **local AI models** (Ollama + Qwen2.5-Coder). Features include intelligent schema retrieval (RAG), query explanation, error correction, data visualization, and a beautiful web interface.
 
-![SQL Copilot Demo](docs/demo.png)
+<img width="1890" height="945" alt="image" src="https://github.com/user-attachments/assets/532ec0f8-7cf1-45bb-88c5-f46e1c8c07cd" />
+
 
 ## ✨ Features
 
@@ -42,13 +43,15 @@ SQL Copilot is a production-ready application that converts natural language que
 ## 📸 Screenshots
 
 ### Web Interface
-![Main Interface](docs/screenshots/main-interface.png)
+<img width="1183" height="850" alt="image" src="https://github.com/user-attachments/assets/ca69a87b-003c-41cb-8e56-972a10cd5fdc" />
 
 ### Data Visualization
-![Charts](docs/screenshots/charts.png)
+<img width="1152" height="927" alt="image" src="https://github.com/user-attachments/assets/3158aeed-e4c7-46af-ae0c-40e2e269357d" />
+<img width="1145" height="918" alt="image" src="https://github.com/user-attachments/assets/e50423f4-d804-43e5-bded-2359c1191e07" />
+
 
 ### Dark Mode
-![Dark Mode](docs/screenshots/dark-mode.png)
+<img width="1591" height="744" alt="image" src="https://github.com/user-attachments/assets/02363958-1054-4b71-afba-343584286601" />
 
 ---
 
@@ -414,4 +417,4 @@ If you find this project useful, please consider giving it a star!
 
 ---
 
-**Made with ❤️ using Local AI**
+**Made with ❤️ by CHRE/Abir**
