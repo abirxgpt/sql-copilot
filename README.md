@@ -403,9 +403,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@wannabiryours](https://instagram.com/wannabiryours)
 
-Project Link: [https://github.com/yourusername/sql-copilot](https://github.com/yourusername/sql-copilot)
+Project Link: [https://github.com/abirxgpt/sql-copilot](https://github.com/abirxgpt/sql-copilot)
 
 ---
 
@@ -413,7 +413,7 @@ Project Link: [https://github.com/yourusername/sql-copilot](https://github.com/y
 
 If you find this project useful, please consider giving it a star!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/sql-copilot&type=Date)](https://star-history.com/#yourusername/sql-copilot&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=abirxgpt/sql-copilot&type=Date)](https://star-history.com/#abirxgpt/sql-copilot&Date)
 
 ---
 
